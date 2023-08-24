@@ -1,5 +1,11 @@
-div
+.cabecalho
+{
+ background-color:yellow;
+}
+
+
+ .corpo
 {
     background-color: aqua;
-margin-top: 20px;
-border: 2px solid black;
+
+}
