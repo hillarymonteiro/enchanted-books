@@ -1,21 +1,23 @@
-.cabecalho{
+header{
     background-color: #BE9FFE;
     width: 1440px;
-    height: 200px;
-    padding; 20px;
-    margin: 0;
+    height: 150px;
+    
 }
 
 .barrasuperior{
-    background-color: #BE9FFE;
+    background-color: #d9d9d9;
+    height: 73px;
+    weight: 585px;
 }
 
 .corpo{
-    background-color: #FE9F9F;
+    height: 620px;
 }
 
-.div{
-    background-color: #BE9FFE;
+footer{
+background-color: #BE9FFE;
     margin-top: 100px;
     border: 2px solid (0,0,0);
+    height: 100px;
 }
