@@ -22,9 +22,14 @@ background-color: #BE9FFE;
     height: 100px;
 } 
 .livros{
-    width: 273px;
-    height: 360px;
+    display:flex;
+    flex-direction: row;
+    width: 450px;
+    height: 400px;
     background-color: rgb(252, 200, 241);
     
 }
-.
+.imagem-capa{
+    width: 100px;
+
+}
